@@ -1,0 +1,14 @@
+D:\Лєра\Навчання 3 курс\Крос\lab4\lab41\lab41\bin\Debug\net8.0\lab41.exe
+D:\Лєра\Навчання 3 курс\Крос\lab4\lab41\lab41\bin\Debug\net8.0\lab41.deps.json
+D:\Лєра\Навчання 3 курс\Крос\lab4\lab41\lab41\bin\Debug\net8.0\lab41.runtimeconfig.json
+D:\Лєра\Навчання 3 курс\Крос\lab4\lab41\lab41\bin\Debug\net8.0\lab41.dll
+D:\Лєра\Навчання 3 курс\Крос\lab4\lab41\lab41\bin\Debug\net8.0\lab41.pdb
+D:\Лєра\Навчання 3 курс\Крос\lab4\lab41\lab41\obj\Debug\net8.0\lab41.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лєра\Навчання 3 курс\Крос\lab4\lab41\lab41\obj\Debug\net8.0\lab41.AssemblyInfoInputs.cache
+D:\Лєра\Навчання 3 курс\Крос\lab4\lab41\lab41\obj\Debug\net8.0\lab41.AssemblyInfo.cs
+D:\Лєра\Навчання 3 курс\Крос\lab4\lab41\lab41\obj\Debug\net8.0\lab41.csproj.CoreCompileInputs.cache
+D:\Лєра\Навчання 3 курс\Крос\lab4\lab41\lab41\obj\Debug\net8.0\lab41.dll
+D:\Лєра\Навчання 3 курс\Крос\lab4\lab41\lab41\obj\Debug\net8.0\refint\lab41.dll
+D:\Лєра\Навчання 3 курс\Крос\lab4\lab41\lab41\obj\Debug\net8.0\lab41.pdb
+D:\Лєра\Навчання 3 курс\Крос\lab4\lab41\lab41\obj\Debug\net8.0\lab41.genruntimeconfig.cache
+D:\Лєра\Навчання 3 курс\Крос\lab4\lab41\lab41\obj\Debug\net8.0\ref\lab41.dll
