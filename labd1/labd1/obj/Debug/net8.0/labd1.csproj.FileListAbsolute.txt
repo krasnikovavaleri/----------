@@ -1,0 +1,14 @@
+D:\Лєра\Навчання 3 курс\Крос\lab4\labd1\labd1\bin\Debug\net8.0\labd1.exe
+D:\Лєра\Навчання 3 курс\Крос\lab4\labd1\labd1\bin\Debug\net8.0\labd1.deps.json
+D:\Лєра\Навчання 3 курс\Крос\lab4\labd1\labd1\bin\Debug\net8.0\labd1.runtimeconfig.json
+D:\Лєра\Навчання 3 курс\Крос\lab4\labd1\labd1\bin\Debug\net8.0\labd1.dll
+D:\Лєра\Навчання 3 курс\Крос\lab4\labd1\labd1\bin\Debug\net8.0\labd1.pdb
+D:\Лєра\Навчання 3 курс\Крос\lab4\labd1\labd1\obj\Debug\net8.0\labd1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лєра\Навчання 3 курс\Крос\lab4\labd1\labd1\obj\Debug\net8.0\labd1.AssemblyInfoInputs.cache
+D:\Лєра\Навчання 3 курс\Крос\lab4\labd1\labd1\obj\Debug\net8.0\labd1.AssemblyInfo.cs
+D:\Лєра\Навчання 3 курс\Крос\lab4\labd1\labd1\obj\Debug\net8.0\labd1.csproj.CoreCompileInputs.cache
+D:\Лєра\Навчання 3 курс\Крос\lab4\labd1\labd1\obj\Debug\net8.0\labd1.dll
+D:\Лєра\Навчання 3 курс\Крос\lab4\labd1\labd1\obj\Debug\net8.0\refint\labd1.dll
+D:\Лєра\Навчання 3 курс\Крос\lab4\labd1\labd1\obj\Debug\net8.0\labd1.pdb
+D:\Лєра\Навчання 3 курс\Крос\lab4\labd1\labd1\obj\Debug\net8.0\labd1.genruntimeconfig.cache
+D:\Лєра\Навчання 3 курс\Крос\lab4\labd1\labd1\obj\Debug\net8.0\ref\labd1.dll
